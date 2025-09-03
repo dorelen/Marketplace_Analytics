@@ -1,5 +1,5 @@
 ## Marketplace_Analytics
-Учебный проект, выполнен в рамках курса Karpov.Courses «Аналитик данных»
+Учебный проект, выполнен в рамках курса [Karpov.Courses: «Аналитик данных»](https://karpov.courses/)
 
 
 ### Описание проекта
